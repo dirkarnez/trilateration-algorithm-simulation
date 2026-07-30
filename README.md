@@ -5,3 +5,5 @@ trilateration-algorithm-simulation
 ### TODOs
 - [ ] Add noise
 - [ ] On the fly add / delete anchors
+- [ ] Study Cramer's rule
+  - > Cramer's rule is a math formula that uses determinants to solve a set of linear equations like Ax = b
